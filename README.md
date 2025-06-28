@@ -12,7 +12,7 @@ I'm a **full-stack developer** with expertise in building scalable and automatio
 - 🛠️ Comfortable with: `Vue 2`, `Laravel`, `Node.js`, `Docker`, `MySQL`, `JavaScript`, `TypeScript`
 - 🌱 Learning more about DevOps, CI/CD pipelines, and system scalability
 - 🤝 Open to collaborations on backend-heavy or automation-based projects
-- 📫 Reach me at: ali@lms-code-s-academy.com
+- 📫 Reach me at: m.alibhatti285@gmail.com
 
 ---
 
