@@ -20,6 +20,9 @@ I'm a **full-stack developer** with expertise in building scalable and automatio
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue?style=flat&logo=typescript&logoColor=white)
+![Django](https://img.shields.io/badge/Backend-Django-green?style=flat&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=flat&logo=react&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Frontend-Vue.js-green?style=flat&logo=vue.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Backend-Laravel-red?style=flat&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white)
