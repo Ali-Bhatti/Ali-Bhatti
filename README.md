@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Ali Bhatti
 
-I'm a **full-stack developer** with expertise in building scalable and automation-driven web applications. I work across **Vue.js**, **MySQL**, **Node.js**, and **Laravel**, and love solving complex backend challenges—especially those involving triggers, events, and system workflows.
+I'm a **full-stack developer** with expertise in building scalable and automation-driven web applications. I work across **React Js**, **Django**, **Postgres**, **Vue.js**, **MySQL**, **Node.js**, and **Laravel**, and love solving complex backend challenges—especially those involving triggers, events, and system workflows.
 
 ---
 
@@ -9,7 +9,7 @@ I'm a **full-stack developer** with expertise in building scalable and automatio
 - 🔭 Currently working on property automation systems (triggers, delinquencies, leasing workflows)
 - 🧩 Focused on refactoring and optimizing systems for better performance and reusability
 - 💡 Enjoy writing clean, maintainable code with a touch of design thinking
-- 🛠️ Comfortable with: `Vue 2`, `Laravel`, `Node.js`, `Docker`, `MySQL`, `JavaScript`, `TypeScript`
+- 🛠️ Comfortable with: `Vue 2`, `Laravel`, `Node.js`, `Docker`, `MySQL`, `JavaScript`, `TypeScript`, `React`
 - 🌱 Learning more about DevOps, CI/CD pipelines, and system scalability
 - 🤝 Open to collaborations on backend-heavy or automation-based projects
 - 📫 Reach me at: m.alibhatti285@gmail.com
